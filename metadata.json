@@ -1,0 +1,6 @@
+{
+  "name": "Deepfake Courtroom",
+  "description": "An interactive cybercrime investigation platform where digital judges examine evidence, evaluate deepfakes and digital fraud, submit verdicts, and learn practical cybersecurity lessons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
